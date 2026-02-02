@@ -1,5 +1,5 @@
 # End-to-End Data Analytics and Visualization
-
+Visualization:https://app.powerbi.com/view?r=eyJrIjoiOTM2OTk1NDMtZTNkNy00OTlhLTljOTQtMjYzNDI3ZmZkZDQ0IiwidCI6IjdjNjRmODJlLWZmODMtNGEzMi1iOThiLWZkZDZlMjFlOWEyYyJ9&embedImagePlaceholder=true
 📊 End-to-End Data Analytics and Visualization
 
 This project demonstrates an end-to-end data analytics workflow combining Python-based exploratory data analysis (EDA) and interactive Power BI visualizations to extract actionable insights from raw data.
